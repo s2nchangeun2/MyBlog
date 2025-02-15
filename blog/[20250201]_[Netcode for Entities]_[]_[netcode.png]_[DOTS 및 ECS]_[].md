@@ -1,3 +1,0 @@
-# Netcode for Entities
-
-* Netcode?
