@@ -24,6 +24,10 @@
         "download_url": "/blog/[date]_[title]_[category]_[thumnail]_[description]_[author].md"
     },
     {
+        "name": "[20240120]_[썸네일이 없는 테스트 파일]_[django]_[]_[이 파일은 테스트 파일입니다.]_[].md",
+        "download_url": "/portfolio/[20240120]_[썸네일이 없는 테스트 파일]_[django]_[]_[이 파일은 테스트 파일입니다.]_[].md"
+    },
+    {
         "name": "[date]_[title]_[category]_[thumnail]_[description]_[author].md",
         "download_url": "/portfolio/[date]_[title]_[category]_[thumnail]_[description]_[author].md"
     }
