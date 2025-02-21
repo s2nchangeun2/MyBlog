@@ -6,9 +6,5 @@
     {
         "name": "blog.md",
         "download_url": "/menu/blog.md"
-    },
-    {
-        "name": "portfolio.md",
-        "download_url": "/menu/portfolio.md"
-    }    
+    }  
 ]
